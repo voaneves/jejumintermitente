@@ -5,6 +5,9 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  // Adicione a linha base aqui
+  base: '/natural-flow-landing/',
+
   server: {
     host: "::",
     port: 8080,
