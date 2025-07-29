@@ -16,7 +16,7 @@ const ProductSection = () => {
   ];
 
   const handleCTAClick = () => {
-    window.open("https://hotmart.com/produto/jejum-intermitente-ebook", "_blank");
+    window.open("https://pay.kiwify.com.br/gf4I9Ei", "_blank");
   };
 
   return (
