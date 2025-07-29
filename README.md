@@ -30,7 +30,7 @@
 </div>
 
 <details>
-  <summary>Índice Detalhado</summary>
+  <summary>Índice</summary>
   <ol>
     <li>
       <a href="#sobre-o-projeto">Sobre o Projeto</a>
