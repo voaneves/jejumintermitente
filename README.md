@@ -16,7 +16,7 @@
   </a>
   <h3 align="center">Jejum Intermitente - Landing Page</h3>
   <p align="center">
-    Uma landing page de alta conversão, moderna e performática, criada para a venda do e-book "Jejum Intermitente: O Guia para Emagrecer com Saúde".
+    Uma landing page de alta conversão, moderna e performática, criada para a venda do e-book "Guia Prático do Jejum Intermitente: O Guia para Emagrecer com Saúde".
     <br />
     <a href="https://github.com/voaneves/jejumintermitente"><strong>Explore o código-fonte »</strong></a>
     <br />
