@@ -4,18 +4,18 @@ import { Star, Quote } from "lucide-react";
 const TestimonialsSection = () => {
   const testimonials = [
     {
-      name: "Mariana Silva",
-      location: "São Paulo, SP",
-      text: "Perdi 12kg em 3 meses seguindo o método. O melhor é que não senti que estava fazendo dieta, foi muito natural!",
+      name: "Jandérik Marins",
+      location: "Palmas, TO",
+      text: "O guia é super prático e fácil de seguir. Consegui eliminar 10kg em apenas dois meses sem passar fome. Me sinto outra pessoa!",
       rating: 5,
-      result: "-12kg em 3 meses"
+      result: "-10kg em 2 meses"
     },
     {
-      name: "Rafael Santos",
-      location: "Rio de Janeiro, RJ", 
-      text: "Estava cético no início, mas os resultados apareceram rápido. Mais energia, menos ansiedade com comida. Recomendo!",
+      name: "Maria José",
+      location: "Goiânia, GO",
+      text: "Sempre achei que jejum era sofrimento, mas este e-book mudou minha visão. Perdi 7kg de forma tranquila e ganhei muita disposição!",
       rating: 5,
-      result: "-8kg em 2 meses"
+      result: "-7kg em 3 meses"
     }
   ];
 
