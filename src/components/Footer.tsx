@@ -6,7 +6,7 @@ const Footer = () => {
           © 2025 Guia Prático do Jejum Intermitente - Transforme sua Saúde. Todos os direitos reservados.
         </p>
         <p className="font-poppins text-xs opacity-60">
-          Este produto não substitui orientação médica profissional.
+          Site criado com ❤️ por <a href="https://voaneves.com">voaneves</a>.
         </p>
       </div>
     </footer>
