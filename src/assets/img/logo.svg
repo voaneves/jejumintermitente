@@ -15,7 +15,7 @@
     transform="rotate(45 50 50)"
   />
 
-  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="30" fill="#FFFFFF">
+  <text x="45%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="30" fill="#FFFFFF">
     JI
   </text>
 </svg>
