@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/voaneves/jejumintermitente">
-    <h1>🍃</h1>
+    
   </a>
   <h3 align="center">Jejum Intermitente - Landing Page</h3>
   <p align="center">
@@ -57,7 +57,7 @@ A página foi meticulosamente otimizada para performance e SEO, garantindo tempo
 
 <div align="center">
   <a href="https://voaneves.com/jejumintermitente/">
-    <img src="/assets/img/screenshot.png" alt="Screenshot da página inicial" width="80%">
+    <img src="assets/img/screenshot.png" alt="Screenshot da página inicial" width="80%">
   </a>
 </div>
 
