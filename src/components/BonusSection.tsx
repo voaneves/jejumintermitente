@@ -7,7 +7,7 @@ const BonusSection = () => {
       icon: Calendar,
       title: "Bônus #1: Checklist de 7 Dias",
       description: "Um guia passo a passo para sua primeira semana perfeita",
-      value: "R$ 47,00"
+      value: "R$ 47,90"
     },
     {
       icon: UtensilsCrossed,
@@ -58,7 +58,7 @@ const BonusSection = () => {
         
         <div className="text-center mt-8">
           <p className="font-poppins text-lg text-foreground">
-            <span className="line-through text-muted-foreground">Total: R$ 123,90</span>
+            <span className="line-through text-muted-foreground">Total: R$ 84,90</span>
             <span className="block text-2xl font-bold text-primary mt-2">
               Hoje: GRÁTIS com sua compra!
             </span>
