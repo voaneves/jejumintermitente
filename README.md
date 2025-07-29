@@ -172,7 +172,7 @@ Contribuições são bem-vindas! Se você tem alguma ideia para melhorar este pr
 
 ## Licença
 
-Distribuído sob a Licença MIT. Veja `LICENSE.txt` para mais informações.
+Distribuído sob a Licença MIT. Veja `LICENSE` para mais informações.
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
@@ -206,7 +206,7 @@ Gostaria de agradecer às seguintes ferramentas e comunidades que tornaram este 
 [issues-shield]: https://img.shields.io/github/issues/voaneves/jejumintermitente.svg?style=for-the-badge
 [issues-url]: https://github.com/voaneves/jejumintermitente/issues
 [license-shield]: https://img.shields.io/github/license/voaneves/jejumintermitente.svg?style=for-the-badge
-[license-url]: https://github.com/voaneves/jejumintermitente/blob/main/LICENSE.txt
+[license-url]: https://github.com/voaneves/jejumintermitente/blob/main/LICENSE
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vite.dev]: https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
