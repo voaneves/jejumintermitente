@@ -1,29 +1,27 @@
-import Author from "./components/author";
-import Benefits from "./components/benefits";
-import Bonus from "./components/bonus";
-import Faq from "./components/faq";
-import Footer from "./components/footer";
-import Guide from "./components/guide";
-import Header from "./components/header";
-import Offer from "./components/offer";
-import SocialProof from "./components/social-proof";
-import Warranty from "./components/warranty";
+import { Toaster } from "@/components/ui/toaster";
+import { Toaster as Sonner } from "@/components/ui/sonner";
+import { TooltipProvider } from "@/components/ui/tooltip";
+import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Index from "./pages/Index";
+import NotFound from "./pages/NotFound";
 
-function App() {
-  return (
-    <main className="flex flex-col">
-      <Header />
-      {/* <Benefits /> */}
-      {/* <Author /> */}
-      {/* <Guide /> */}
-      {/* <Bonus /> */}
-      {/* <SocialProof /> */}
-      {/* <Offer /> */}
-      {/* <Warranty /> */}
-      {/* <Faq /> */}
-      {/* <Footer /> */}
-    </main>
-  );
-}
+const queryClient = new QueryClient();
+
+const App = () => (
+  <QueryClientProvider client={queryClient}>
+    <TooltipProvider>
+      <Toaster />
+      <Sonner />
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Index />} />
+          {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
+          <Route path="*" element={<NotFound />} />
+        </Routes>
+      </BrowserRouter>
+    </TooltipProvider>
+  </QueryClientProvider>
+);
 
 export default App;
