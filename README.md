@@ -178,7 +178,7 @@ Distribuído sob a Licença MIT. Veja `LICENSE.txt` para mais informações.
 
 ## Contato
 
-Victor Neves - [voaneves.com](https://voaneves.com) - voaneves@gmail.com
+[linkedin@voaneves](https://linkedin.com/in/voaneves) - [voaneves.com](https://voaneves.com) - voaneves@gmail.com
 
 Link do Projeto: [https://github.com/voaneves/jejumintermitente](https://github.com/voaneves/jejumintermitente)
 
@@ -193,6 +193,7 @@ Gostaria de agradecer às seguintes ferramentas e comunidades que tornaram este 
 * [Tailwind CSS](https://tailwindcss.com/)
 * [Shadcn/UI](https://ui.shadcn.com/)
 * [GitHub Pages](https://pages.github.com/)
+* [lovable.dev](https://lovable.dev/)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
