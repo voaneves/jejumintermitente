@@ -67,24 +67,19 @@ A página foi meticulosamente otimizada para performance e SEO, garantindo tempo
 
 A escolha das tecnologias foi fundamental para atingir os objetivos de performance, manutenibilidade e experiência de desenvolvimento.
 
-* **[React][React-url]**
-    [![React][React.js]][React-url]
+*   [![React][React.js]][React-url]
     Utilizado como a biblioteca principal para a construção da interface de usuário. Sua arquitetura baseada em componentes permite a criação de uma UI modular, reutilizável e fácil de manter.
 
-* **[Vite][Vite-url]**
-    [![Vite][Vite.dev]][Vite-url]
+*   [![Vite][Vite.dev]][Vite-url]
     Escolhido como a ferramenta de build e servidor de desenvolvimento. O Vite oferece uma experiência de desenvolvimento extremamente rápida com Hot Module Replacement (HMR) instantâneo e um processo de build otimizado que gera pacotes menores e mais eficientes para produção.
 
-* **[TypeScript][TypeScript-url]**
-    [![TypeScript][TypeScript.org]][TypeScript-url]
+*   [![TypeScript][TypeScript.org]][TypeScript-url]
     Adotado para adicionar tipagem estática ao JavaScript. O TypeScript aumenta a robustez do código, previne bugs comuns em tempo de desenvolvimento e melhora a autocompletude e a compreensão geral do projeto.
 
-* **[Tailwind CSS][TailwindCSS-url]**
-    [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url]
+*   [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url]
     Utilizado para a estilização. Como um framework utility-first, o Tailwind CSS permite construir designs complexos e customizados diretamente no HTML, resultando em um desenvolvimento rápido e um sistema de design consistente.
 
-* **[Shadcn/UI][Shadcn-UI-url]**
-    [![Shadcn/UI][Shadcn-UI]][Shadcn-UI-url]
+*   [![Shadcn/UI][Shadcn-UI]][Shadcn-UI-url]
     Usado para a criação dos componentes de UI. Diferente de bibliotecas de componentes tradicionais, o Shadcn/UI fornece componentes lindamente desenhados que podem ser copiados para o seu projeto, dando a você controle total sobre o código, estilo e comportamento.
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
