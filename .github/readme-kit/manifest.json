@@ -7,6 +7,7 @@
   "tagline": "Página de venda do e-book \"Guia Prático do Jejum Intermitente\", feita em React e Vite.",
   "description": "Landing page de venda do e-book Guia Prático do Jejum Intermitente, em React, Vite, TypeScript e Tailwind, com SEO e deploy automático.",
   "logo": {
+    "glyph": "fasting",
     "existing": "src/assets/img/logo.svg"
   },
   "buttons": [

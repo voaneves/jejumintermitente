@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img alt="Logotipo Jejum Intermitente: Landing Page" src="https://raw.githubusercontent.com/voaneves/jejumintermitente/main/src/assets/img/logo.svg" width="112" height="112" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voaneves/jejumintermitente/main/assets/logo/logo-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/voaneves/jejumintermitente/main/assets/logo/logo-light.svg" />
+  <img alt="Logo do Jejum Intermitente: Landing Page: um relógio dentro de um anel, com um ponto vermelho para a janela de alimentação" src="https://raw.githubusercontent.com/voaneves/jejumintermitente/main/assets/logo/logo-light.svg" width="112" height="112" />
+</picture>
 
 <h1>Jejum Intermitente: Landing Page</h1>
 
