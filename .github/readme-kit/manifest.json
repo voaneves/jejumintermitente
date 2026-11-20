@@ -1,0 +1,46 @@
+{
+  "repo": "jejumintermitente",
+  "branch": "main",
+  "lang": "pt-BR",
+  "license": "MIT",
+  "name": "Jejum Intermitente: Landing Page",
+  "tagline": "Página de venda do e-book \"Guia Prático do Jejum Intermitente\", feita em React e Vite.",
+  "description": "Landing page de venda do e-book Guia Prático do Jejum Intermitente, em React, Vite, TypeScript e Tailwind, com SEO e deploy automático.",
+  "logo": {
+    "existing": "src/assets/img/logo.svg"
+  },
+  "buttons": [
+    {
+      "id": "live",
+      "text": "Abrir a página",
+      "kind": "primary",
+      "font": "sans",
+      "href": "https://voaneves.github.io/jejumintermitente/"
+    },
+    {
+      "id": "run",
+      "text": "Rodar localmente",
+      "kind": "secondary",
+      "font": "sans",
+      "href": "https://github.com/voaneves/jejumintermitente#como-rodar"
+    },
+    {
+      "id": "hire",
+      "text": "Vamos conversar",
+      "kind": "primary",
+      "font": "sans",
+      "href": "https://voaneves.com/#contato",
+      "landing": false
+    },
+    {
+      "id": "site",
+      "text": "voaneves.com",
+      "kind": "secondary",
+      "font": "sans",
+      "href": "https://voaneves.com/",
+      "landing": false
+    }
+  ],
+  "landing": false,
+  "live_url": "https://voaneves.github.io/jejumintermitente/"
+}
